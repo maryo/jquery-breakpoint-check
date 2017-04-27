@@ -1,6 +1,6 @@
 {
   "name": "jquery-breakpoint-check",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Check the current visibility of bootstrap 3 breakpoints",
   "keywords": [
     "breakpoint",
@@ -20,5 +20,6 @@
     "jquery": "*",
     "bootstrap": "^3.0.0"
   },
-  "main": "js/jquery-breakpoint-check.js"
+  "main": "js/jquery-breakpoint-check.js",
+  "types": "js/jquery-breakpoint-check.d.ts"
 }
